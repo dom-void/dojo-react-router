@@ -1,6 +1,6 @@
 # Continue tutorial
 
-@: [Handling…](https://reactrouter.com/en/main/start/tutorial#handling-not-found-errors)
+@: [The Contact Route UI](https://reactrouter.com/en/main/start/tutorial#the-contact-route-ui)
 
 # React + Vite
 
