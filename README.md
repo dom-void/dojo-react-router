@@ -1,6 +1,6 @@
 # Continue tutorial
 
-@: [Client Side Routing](https://reactrouter.com/en/main/start/tutorial#client-side-routing)
+@: [https://reactrouter.com/en/main/start/tutorial#loading-data](https://reactrouter.com/en/main/start/tutorial#loading-data)
 
 # React + Vite
 
