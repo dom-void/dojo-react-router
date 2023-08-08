@@ -1,6 +1,6 @@
 # Continue tutorial
 
-@: [The Contact Route UI](https://reactrouter.com/en/main/start/tutorial#the-contact-route-ui)
+@: [Client Side Routing](https://reactrouter.com/en/main/start/tutorial#client-side-routing)
 
 # React + Vite
 
